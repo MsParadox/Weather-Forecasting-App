@@ -4,7 +4,7 @@
 
 ### _Real-time weather data for any city, anywhere in the world._
 
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-Visit_App-0EA5E9?style=for-the-badge)](https://msparadox.github.io/Weather-Forecasting-App/)
+[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-Visit_App-0EA5E9?style=for-the-badge)](https://weather-forecasting-app-pied.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsParadox/Weather-Forecasting-App)
 [![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -78,7 +78,7 @@
 
 ### Option 1 — Use the Live App
 
-👉 Visit **[msparadox.github.io/Weather-Forecasting-App](https://msparadox.github.io/Weather-Forecasting-App/)** and start searching!
+👉 Visit **[weather-forecasting-app-pied.vercel.app](https://weather-forecasting-app-pied.vercel.app)** and start searching!
 
 ---
 
