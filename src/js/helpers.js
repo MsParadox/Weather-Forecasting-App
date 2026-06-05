@@ -24,7 +24,7 @@ const helpers = function helpers() {
 
   async function getFahrenheit(city) {
     try {
-      const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=903507f17d707fecd352d38301efba77&units=imperial`;
+      const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=428d0ca0915f2ecdc283f5e035d7f055&units=imperial`;
       const response = await fetch(url, { mode: 'cors' });
       const cityFahr = await response.json();
       return cityFahr;
